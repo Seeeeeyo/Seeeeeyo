@@ -9,11 +9,11 @@ I love to tackle new problems by applying my CS knowledge. I am particularly int
 <!--
 <div align="center">
   <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Seeeeeyo&show_icons=true&line_height=28&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats" alt="Github Stats (loading...)"></a>
-  <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ant-louis&langs_count=8&layout=compact&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Language Stats (loading...)"></a>
+  <a href="#/"><img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Seeeeeyo&langs_count=8&layout=compact&hide_border=true&hide=html,typescript,postscript,jupyter%20notebook&role=OWNER,COLLABORATOR" alt="Language Stats (loading...)"></a>
 </div>
 
 ***
--->
+ -->
 
 <!-- Social buttons -->
 <div align="center">
