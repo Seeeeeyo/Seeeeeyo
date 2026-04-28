@@ -10,6 +10,11 @@ I love to tackle new problems by applying my CS knowledge. I am particularly int
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:selimgilon@gmail.com"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email me"></a>
 </div>
+
+## Featured repository
+
+- [utahmobl/opencap-monocular](https://github.com/utahmobl/opencap-monocular)
+
 <!--
 **Seeeeeyo/Seeeeeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
