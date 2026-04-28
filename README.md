@@ -13,7 +13,12 @@ I love to tackle new problems by applying my CS knowledge. I am particularly int
 
 ## Featured repository
 
-- [utahmobl/opencap-monocular](https://github.com/utahmobl/opencap-monocular)
+- [utahmobl/opencap-monocular](https://github.com/utahmobl/opencap-monocular) — OpenCap Monocular: 3D Human Kinematics and Dynamics From a Single Smartphone Video
+  - ⭐ Stars: **137**
+  - 🍴 Forks: **17**
+  - 🧾 Open issues: **1**
+  - 🧠 Main language: **Python**
+  - 🕒 Last push: **2026-04-15**
 
 <!--
 **Seeeeeyo/Seeeeeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
